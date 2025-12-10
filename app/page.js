@@ -13,6 +13,9 @@ export default function HomePage() {
           fill
           alt="Random Image"
         />
+        <h3>
+          Hi there
+        </h3>
       </div>
     </>
   );
