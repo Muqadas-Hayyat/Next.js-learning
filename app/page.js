@@ -16,6 +16,9 @@ export default function HomePage() {
         <h3>
           Hi there
         </h3>
+        <h2>
+          Hi.....
+        </h2>
       </div>
     </>
   );
