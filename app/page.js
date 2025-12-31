@@ -13,6 +13,9 @@ export default function HomePage() {
           fill
           alt="Random Image"
         />
+        <h1>
+          This is te practice file where i practice file and learn next.js
+        </h1>
         <h3>
           Hi there
         </h3>
@@ -22,6 +25,7 @@ export default function HomePage() {
         <p>
           This is te practice file in which i practice about next.js
           </p>
+
       </div>
     </>
   );
