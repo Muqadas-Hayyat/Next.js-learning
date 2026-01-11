@@ -25,6 +25,9 @@ export default function HomePage() {
         <p>
           This is te practice file in which i practice about next.js
           </p>
+          <h3>
+            This is for practice for work
+          </h3>
 
       </div>
     </>
